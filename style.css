@@ -3,3 +3,15 @@ background-color: black;
 color:white;
 font-family: "Playpen Sans Arabic", sans-serif;
 }
+
+header{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
