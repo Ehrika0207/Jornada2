@@ -7,8 +7,9 @@ margin: 0px;
 
 header{
     font-size: 25px;
-    border-bottom: solid 4px rgb(228, 82, 129)
-    ;
+    border-bottom: solid 4px rgb(228, 82, 129);
+    padding: 35px;
+
 }
 
 h1{
